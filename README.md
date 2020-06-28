@@ -1,9 +1,9 @@
-# FastDomParse-node
+# FastDomParse-java
 
 fast dom parse for java  
 GitHub Pages: https://github.com/fengshangbin/FastDomParse-java
 
-# 如何使用 FastDomParse-node
+# 如何使用 FastDomParse-java
 导入fastdomparse.jar
 ```
 FastDom dom = new FastDom(htmlString)
